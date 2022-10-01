@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+#Idea files
+misc.xml
+modules.xml
+vcs.xml
+
+#Aditional files
+Laboratorio-GitHub.iml
+WrongFile.txt
+
+#Config files
+codeStyleConfig.xml
+index.pb
+Project.xml
